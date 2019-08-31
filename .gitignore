@@ -1,0 +1,13 @@
+## Extensions Ignored
+
+# Stories
+stories/**/*.*
+
+# logs
+logs/**/*.*
+
+# __pycache__
+__pycache__/**/*.*
+
+# ipynb checkpoint
+.ipynb_checkpoints/**/*.*
